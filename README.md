@@ -5,15 +5,15 @@ Also, it shows us popular repositoires of All, JavaScript, Ruby, Java, CSS, and 
 
 ## API from Transport for London Unified
 
-The APIs are here:
+The APIs (endpoints) are here:
 
 - getProfile: https://api.github.com/users/${username}${params}.
 - getRepositories: https://api.github.com/users/${username}/repos${params}&per_page=100
 
 ## Development & Deployment
 
-- Simple ReactJS App.
-- This App has been deployed on NOW webserver.
+- ReactJS App.
+- This App has been deployed on Firebase server.
 
 ## Front-end
 
