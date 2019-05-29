@@ -3,7 +3,12 @@
 This App provides us to battle with 2 Github users.
 Also, it shows us popular repositoires of All, JavaScript, Ruby, Java, CSS, and Python.
 
-## API from Transport for London Unified
+## Front-end
+
+https://github-battle-da289.firebaseapp.com/ <br>
+https://github.com/timmoon7/github-battle
+
+## API from Github
 
 The APIs (endpoints) are here:
 
@@ -14,11 +19,6 @@ The APIs (endpoints) are here:
 
 - ReactJS App.
 - This App has been deployed on Firebase server.
-
-## Front-end
-
-https://github-battle-da289.firebaseapp.com/ <br>
-https://github.com/timmoon7/github-battle
 
 ### Battle Page
 
